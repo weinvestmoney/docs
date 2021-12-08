@@ -8,3 +8,4 @@
 - Because millions of dollars are made every day, in trading fees and interest, and that money should be going into your wallet
 - Because we're all tired of paying network fees on DEXs and paying commissions to CEXs 
 
+[litepaper](litepaper.md)
